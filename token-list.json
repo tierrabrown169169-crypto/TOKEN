@@ -1,0 +1,14 @@
+{
+  "name": "Tenderly Custom Tokens",
+  "tokens": [
+    {
+      "chainId": 9999,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tether_Logo.svg",
+      "priceUsd": 1.0
+    }
+  ]
+}
